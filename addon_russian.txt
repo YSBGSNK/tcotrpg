@@ -83,7 +83,7 @@
 
 
 		"DOTA_Tooltip_Ability_item_desolator2"						"Forest Desolator"
-		"DOTA_Tooltip_Ability_item_desolator2_Description"			"<h1>Passive: Corruption</h1> Your attacks reduce the target's armor for 15 seconds.\n\n"
+		"DOTA_Tooltip_Ability_item_desolator2_Description"			"<h1>Passive: Corruption</h1> Атаки снижают броню  цели на 15 секунд.\n\n"
 		"DOTA_Tooltip_Ability_item_desolator2_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_desolator2_corruption_armor"		"ARMOR REDUCE:"
 		"DOTA_Tooltip_Ability_item_desolator2_corruption_duration"	"DURATION:"
@@ -92,7 +92,7 @@
 		"DOTA_Tooltip_modifier_desolator2_armor_Description"			"Armor reduced by 20."
 
 		"DOTA_Tooltip_Ability_item_desolator3"						"Spider Desolator"
-		"DOTA_Tooltip_Ability_item_desolator3_Description"			"<h1>Passive: Corruption</h1> Your attacks reduce the target's armor for 15 seconds.\n\n"
+		"DOTA_Tooltip_Ability_item_desolator3_Description"			"<h1>Passive: Corruption</h1> Атаки снижают броню  цели на 15 секунд.\n\n"
 		"DOTA_Tooltip_Ability_item_desolator3_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_desolator3_corruption_armor"		"ARMOR REDUCE:"
 		"DOTA_Tooltip_Ability_item_desolator3_corruption_duration"	"DURATION:"
@@ -101,7 +101,7 @@
 		"DOTA_Tooltip_modifier_desolator3_armor_Description"			"Armor reduced by 70."
 
 		"DOTA_Tooltip_Ability_item_desolator4"						"Reef Desolator"
-		"DOTA_Tooltip_Ability_item_desolator4_Description"			"<h1>Passive: Corruption</h1> Your attacks reduce the target's armor for 15 seconds.\n\n"
+		"DOTA_Tooltip_Ability_item_desolator4_Description"			"<h1>Passive: Corruption</h1> Атаки снижают броню  цели на 15 секунд.\n\n"
 		"DOTA_Tooltip_Ability_item_desolator4_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_desolator4_corruption_armor"		"ARMOR REDUCE:"
 		"DOTA_Tooltip_Ability_item_desolator4_corruption_duration"	"DURATION:"
@@ -110,7 +110,7 @@
 		"DOTA_Tooltip_modifier_desolator4_armor_Description"			"Armor reduced by 200."
 
 		"DOTA_Tooltip_Ability_item_desolator5"						"Cosmic Desolator"
-		"DOTA_Tooltip_Ability_item_desolator5_Description"			"<h1>Passive: Corruption</h1> Your attacks reduce the target's armor for 15 seconds.\n\n"
+		"DOTA_Tooltip_Ability_item_desolator5_Description"			"<h1>Passive: Corruption</h1> Атаки снижают броню  цели на 15 секунд.\n\n"
 		"DOTA_Tooltip_Ability_item_desolator5_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_desolator5_corruption_armor"		"ARMOR REDUCE:"
 		"DOTA_Tooltip_Ability_item_desolator5_corruption_duration"	"DURATION:"
@@ -119,7 +119,7 @@
 		"DOTA_Tooltip_modifier_desolator5_armor_Description"			"Armor reduced by 300."
 
 		"DOTA_Tooltip_Ability_item_desolator6"						"Dark Reef Desolator"
-		"DOTA_Tooltip_Ability_item_desolator6_Description"			"<h1>Passive: Corruption</h1> Your attacks reduce the target's armor for 15 seconds.\n\n"
+		"DOTA_Tooltip_Ability_item_desolator6_Description"			"<h1>Passive: Corruption</h1> Атаки снижают броню  цели на 15 секунд.\n\n"
 		"DOTA_Tooltip_Ability_item_desolator6_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_desolator6_corruption_armor"		"ARMOR REDUCE:"
 		"DOTA_Tooltip_Ability_item_desolator6_corruption_duration"	"DURATION:"
@@ -129,7 +129,7 @@
 		"DOTA_Tooltip_modifier_desolator6_armor_Description"			"Armor reduced by 5300."
 
 		"DOTA_Tooltip_Ability_item_desolator7"						"Lost Desolator"
-		"DOTA_Tooltip_Ability_item_desolator7_Description"			"<h1>Passive: Corruption</h1> Your attacks reduce the target's armor for 15 seconds.\n\n"
+		"DOTA_Tooltip_Ability_item_desolator7_Description"			"<h1>Passive: Corruption</h1> Атаки снижают броню  цели на 15 секунд.\n\n"
 		"DOTA_Tooltip_Ability_item_desolator7_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_desolator7_corruption_armor"		"ARMOR REDUCE:"
 		"DOTA_Tooltip_Ability_item_desolator7_corruption_duration"	"DURATION:"
@@ -139,7 +139,7 @@
 		"DOTA_Tooltip_modifier_desolator7_armor_Description"			"Armor reduced by 5300."
 
 		"DOTA_Tooltip_Ability_item_desolator8"						"Rainbow Desolator"
-		"DOTA_Tooltip_Ability_item_desolator8_Description"			"<h1>Passive: Corruption</h1> Your attacks reduce the target's armor for 15 seconds.\n\n"
+		"DOTA_Tooltip_Ability_item_desolator8_Description"			"<h1>Passive: Corruption</h1> Атаки снижают броню  цели на 15 секунд.\n\n"
 		"DOTA_Tooltip_Ability_item_desolator8_bonus_damage"			"+$damage"
 		"DOTA_Tooltip_Ability_item_desolator8_corruption_armor"		"ARMOR REDUCE:"
 		"DOTA_Tooltip_Ability_item_desolator8_corruption_duration"	"DURATION:"
@@ -678,7 +678,7 @@
                 "DOTA_Tooltip_ability_item_recipe_scepter2" "Recipe Scepter LVL 2"
 
 
-		"DOTA_Tooltip_ability_item_shivas_guard2_Description"					"<h1>Active: Arctic Blast</h1> Emits a freezing wave that deals %blast_damage% magical damage to enemies and slows their movement by %blast_movement_speed%%% for %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Reduces the attack speed of all enemies by %aura_attack_speed%. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard2_Description"					"<h1>Active: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и замедляет их передвижение %blast_movement_speed%%% на %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Снижает скорость атаки противников на %aura_attack_speed%. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard2_Lore"							"Said to have belonged to a goddess, today it retains much of its former power."
 		"DOTA_Tooltip_ability_item_shivas_guard2_Note0"							"The wave extends at a speed of 350 to a max size of 900."
 		"DOTA_Tooltip_ability_item_shivas_guard2_Note1"							"The Arctic Blast follows its caster."
@@ -691,7 +691,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard3_Description"					"<h1>Active: Arctic Blast</h1> Emits a freezing wave that deals %blast_damage% magical damage to enemies and slows their movement by %blast_movement_speed%%% for %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Reduces the attack speed of all enemies by %aura_attack_speed%. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard3_Description"					"<h1>Active: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и замедляет их передвижение %blast_movement_speed%%% на %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Снижает скорость атаки противников на %aura_attack_speed%. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard3_Lore"							"Said to have belonged to a goddess, today it retains much of its former power."
 		"DOTA_Tooltip_ability_item_shivas_guard3_Note0"							"The wave extends at a speed of 350 to a max size of 900."
 		"DOTA_Tooltip_ability_item_shivas_guard3_Note1"							"The Arctic Blast follows its caster."
@@ -704,7 +704,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard4_Description"					"<h1>Active: Arctic Blast</h1> Emits a freezing wave that deals %blast_damage% magical damage to enemies and slows their movement by %blast_movement_speed%%% for %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Reduces the attack speed of all enemies by %aura_attack_speed%. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard4_Description"					"<h1>Active: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и замедляет их передвижение %blast_movement_speed%%% на %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Снижает скорость атаки противников на %aura_attack_speed%. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard4_Lore"							"Said to have belonged to a goddess, today it retains much of its former power."
 		"DOTA_Tooltip_ability_item_shivas_guard4_Note0"							"The wave extends at a speed of 350 to a max size of 900."
 		"DOTA_Tooltip_ability_item_shivas_guard4_Note1"							"The Arctic Blast follows its caster."
@@ -717,7 +717,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard5_Description"					"<h1>Active: Arctic Blast</h1> Emits a freezing wave that deals %blast_damage% magical damage to enemies and slows their movement by %blast_movement_speed%%% for %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Reduces the attack speed of all enemies by %aura_attack_speed%. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard5_Description"					"<h1>Active: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и замедляет их передвижение %blast_movement_speed%%% на %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Снижает скорость атаки противников на %aura_attack_speed%. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard5_Lore"							"Said to have belonged to a goddess, today it retains much of its former power."
 		"DOTA_Tooltip_ability_item_shivas_guard5_Note0"							"The wave extends at a speed of 350 to a max size of 900."
 		"DOTA_Tooltip_ability_item_shivas_guard5_Note1"							"The Arctic Blast follows its caster."
@@ -730,7 +730,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard6_Description"					"<h1>Active: Arctic Blast</h1> Emits a freezing wave that deals %blast_damage% magical damage to enemies and slows their movement by %blast_movement_speed%%% for %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Reduces the attack speed of all enemies by %aura_attack_speed%. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard6_Description"					"<h1>Active: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и замедляет их передвижение %blast_movement_speed%%% на %blast_debuff_duration% seconds.<br><br>Radius: %blast_radius%\n<h1>Passive: Freezing Aura</h1> Снижает скорость атаки противников на %aura_attack_speed%. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard6_Lore"							"Said to have belonged to a goddess, today it retains much of its former power."
 		"DOTA_Tooltip_ability_item_shivas_guard6_Note0"							"The wave extends at a speed of 350 to a max size of 900."
 		"DOTA_Tooltip_ability_item_shivas_guard6_Note1"							"The Arctic Blast follows its caster."
@@ -756,7 +756,7 @@
 		"DOTA_Tooltip_ability_item_shivas_guard6" "Shivas Guard LVL 6"
 
 		"DOTA_Tooltip_ability_item_vladmir2" "Vladmir's Offering LVL 2"
-		"DOTA_Tooltip_ability_item_vladmir2_Description"							"<h1>Passive: Vladmir's Aura</h1>Grants lifesteal (%lifesteal_aura%%% for melee heroes, %lifesteal_aura_ranged%%% for ranged), %hp_regen% health regeneration, %mana_regen_aura% mana regeneration, %damage_aura%%% bonus attack damage, and %armor_aura% armor to nearby allies. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_vladmir2_Description"							"<h1>Passive: Vladmir's Aura</h1>Увеличивает вампиризм %lifesteal_aura%%% для героев ближнего боя, %lifesteal_aura_ranged%%% для героев дальнего боя), %hp_regen% восстановление здоровья, %mana_regen_aura% восстановление маны, %damage_aura%%% урона от атак, и %armor_aura% брони ближайшим союзникам. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_vladmir2_Lore"								"An eerie mask that is haunted with the malice of a fallen vampire."
 		"DOTA_Tooltip_ability_item_vladmir2_Note0"								"Multiple instances of Vladmir's Aura do not stack."
 		//"DOTA_Tooltip_ability_item_vladmir2_bonus_all_stats"					"+$all"
@@ -769,7 +769,7 @@
 		//"DOTA_Tooltip_ability_item_vladmir2_aura_radius"							"AURA RADIUS:"
 
 		"DOTA_Tooltip_ability_item_vladmir4" "Lores's Offering"
-		"DOTA_Tooltip_ability_item_vladmir4_Description"							"<h1>Passive: Vladmir's Aura</h1>Grants lifesteal (%lifesteal_aura%%% for melee heroes, %lifesteal_aura_ranged%%% for ranged), %hp_regen% health regeneration, %mana_regen_aura% mana regeneration, %damage_aura%%% bonus attack damage, and %armor_aura% armor to nearby allies. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_vladmir4_Description"							"<h1>Passive: Vladmir's Aura</h1>Увеличивает вампиризм %lifesteal_aura%%% для героев ближнего боя, %lifesteal_aura_ranged%%% для героев дальнего боя), %hp_regen% восстановление здоровья, %mana_regen_aura% восстановление маны, %damage_aura%%% урона от атак, и %armor_aura% брони ближайшим союзникам. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_vladmir4_Lore"								"An eerie mask that is haunted with the malice of a fallen vampire."
 		"DOTA_Tooltip_ability_item_vladmir4_Note0"								"Multiple instances of Vladmir's Aura do not stack."
 		//"DOTA_Tooltip_ability_item_vladmir4_bonus_all_stats"					"+$all"
@@ -782,7 +782,7 @@
 		//"DOTA_Tooltip_ability_item_vladmir4_aura_radius"							"AURA RADIUS:"
 
 		"DOTA_Tooltip_ability_item_vladmir3" "Vladmir's Offering LVL 3"
-		"DOTA_Tooltip_ability_item_vladmir3_Description"							"<h1>Passive: Vladmir's Aura</h1>Grants lifesteal (%lifesteal_aura%%% for melee heroes, %lifesteal_aura_ranged%%% for ranged), %hp_regen% health regeneration, %mana_regen_aura% mana regeneration, %damage_aura%%% bonus attack damage, and %armor_aura% armor to nearby allies. <br><br>Radius: %aura_radius%"
+		"DOTA_Tooltip_ability_item_vladmir3_Description"							"<h1>Passive: Vladmir's Aura</h1>Увеличивает вампиризм %lifesteal_aura%%% для героев ближнего боя, %lifesteal_aura_ranged%%% для героев дальнего боя), %hp_regen% восстановление здоровья, %mana_regen_aura% восстановление маны, %damage_aura%%% урона от атак, и %armor_aura% брони ближайшим союзникам. <br><br>Radius: %aura_radius%"
 		"DOTA_Tooltip_ability_item_vladmir3_Lore"								"An eerie mask that is haunted with the malice of a fallen vampire."
 		"DOTA_Tooltip_ability_item_vladmir3_Note0"								"Multiple instances of Vladmir's Aura do not stack."
 		//"DOTA_Tooltip_ability_item_vladmir3_bonus_all_stats"					"+$all"
@@ -2804,8 +2804,8 @@
 
 		"DOTA_Tooltip_Ability_windranger_powershot_custom" "Powershot"
   "DOTA_Tooltip_Ability_windranger_powershot_custom_Description" "Windranger имеет шанс при атаке выпустить один мощный выстрел, который наносит урон врагам на своем пути. Способность также разрушает деревья."
-  "DOTA_Tooltip_Ability_windranger_powershot_custom_powershot_damage" "УЩЕРБ:"
-  "DOTA_Tooltip_Ability_windranger_powershot_custom_int_damage" "%ИНТЕЛЛЕКТ К ПОВРЕЖДЕНИЯМ:"
+  "DOTA_Tooltip_Ability_windranger_powershot_custom_powershot_damage" "Урон:"
+  "DOTA_Tooltip_Ability_windranger_powershot_custom_int_damage" "%Интеллект в урон:"
   "DOTA_Tooltip_Ability_windranger_powershot_custom_arrow_range" "ДИАПАЗОН СТРЕЛКИ:"
   "DOTA_Tooltip_Ability_windranger_powershot_custom_chance" "%ШАНС:"
 
@@ -3437,7 +3437,7 @@
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_spell_amp"    "%Усиление заклинаний:"
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_duration"    "Длительность:"
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_shard"    "Bloodrage"
-        "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_shard_damage_pct"    "%МАКСИМАЛЬНЫЙ УЩЕРБ:"
+        "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_shard_damage_pct"    "%Максимальный урон:"
         "DOTA_Tooltip_Ability_bloodseeker_bloodrage_custom_shard_description"    "Атаки Bloodrage теперь наносят часть максимального здоровья цели в качестве магического урона и исцеляют Bloodseeker на эту сумму. Действует только на Искателя крови. Менее эффективна против боссов."
 
         "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom"    "Blood Mist"
@@ -3471,10 +3471,10 @@
 
         "DOTA_Tooltip_Ability_bloodseeker_rupture_custom"    "Rupture"
         "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_description"    "Атаки Bloodseeker накладывают на цель дебафф "Разрыв" на короткое время, заставляя ее кровоточить и получать непрерывный урон каждую секунду за каждый стак "Разрыва", который есть у цели в данный момент.<br><br>Если Bloodseeker наносит урон врагу, находящемуся под действием Разрыва, используя другую способность, он накладывает дополнительный стак Разрыва, нанося повышенный урон.."
-        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_duration"    "ДЛИТЕЛЬНОСТЬ:"
-        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_max_stacks"    "МАКС СТАКАНЫ:"
-        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_damage"    "УЩЕРБ:"
-        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_interval"    "ИНТЕРВАЛ:"
+        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_duration"    "Длительность:"
+        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_max_stacks"    "Макс стаков:"
+        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_damage"    "Урон:"
+        "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_interval"    "Интервал:"
         "DOTA_Tooltip_Ability_bloodseeker_rupture_custom_agi_to_damage"    "%УСТОЙЧИВОСТЬ К ПОВРЕЖДЕНИЯМ:"
 
         "DOTA_Tooltip_modifier_bloodseeker_rupture_custom_debuff" "Rupture"
