@@ -662,7 +662,7 @@
                 "DOTA_Tooltip_ability_item_recipe_scepter2" "Recipe Scepter LVL 2"
 
 
-		"DOTA_Tooltip_ability_item_shivas_guard2_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard2_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard2_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard2_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
 		"DOTA_Tooltip_ability_item_shivas_guard2_Note1"							"Морозная волна следует за владельцем."
@@ -675,7 +675,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard2_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard3_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard3_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard3_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard3_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
 		"DOTA_Tooltip_ability_item_shivas_guard3_Note1"							"Морозная волна следует за владельцем."
@@ -688,7 +688,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard3_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard4_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard4_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard4_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard4_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
 		"DOTA_Tooltip_ability_item_shivas_guard4_Note1"							"Морозная волна следует за владельцем."
@@ -701,7 +701,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard4_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard5_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard5_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard5_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard5_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
 		"DOTA_Tooltip_ability_item_shivas_guard5_Note1"							"Морозная волна следует за владельцем."
@@ -714,7 +714,7 @@
 		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_debuff_duration"			"BLAST SLOW DURATION:"
 		//"DOTA_Tooltip_ability_item_shivas_guard5_blast_radius"						"BLAST RADIUS:"
 
-		"DOTA_Tooltip_ability_item_shivas_guard6_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
+		"DOTA_Tooltip_ability_item_shivas_guard6_Description"					"<h1>Активное: Arctic Blast</h1> Выпускает морозную волну, которая наносит противникам %blast_damage% магического урона и на %blast_debuff_duration% сек. снижает их скорость передвижения на %blast_movement_speed%%%.<br><br>Радиус: %blast_radius%\n<h1>Пассивное: Freezing Aura</h1>Снижает скорость атаки противников на %aura_attack_speed%, а их лечение, восстановление здоровья и вампиризм — на %hp_regen_degen_aura%%%.<br><br>Радиус: %aura_radius%"
 		"DOTA_Tooltip_ability_item_shivas_guard6_Lore"							"Артефакт, раньше принадлежавший богине, до сих пор сохранил часть былого могущества."
 		"DOTA_Tooltip_ability_item_shivas_guard6_Note0"							"Волна распространяется со скоростью в %blast_speed% до максимального размера в %blast_radius%."
 		"DOTA_Tooltip_ability_item_shivas_guard6_Note1"							"Морозная волна следует за владельцем."
@@ -5725,5 +5725,11 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
         "DOTA_Tooltip_modifier_aeon_of_tarrasque_cooldown_description"    "Aeon Shield have been triggered recently and can not be used again."
 
         "DOTA_Tooltip_Ability_special_bonus_unique_necrolyte_4_custom" "+{s:value}% Decaying Presence Max HP Damage"
+
+        "DOTA_Tooltip_ability_creep_wolf_poison"									"Rabies"
+		"DOTA_Tooltip_ability_creep_wolf_poison_Description"						"Inflicts rabies that slows attack and movement speeds."
+		"DOTA_Tooltip_ability_creep_wolf_poison_attack_speed"						"ATTACK SLOW:"
+		"DOTA_Tooltip_ability_creep_wolf_poison_movement_speed"					"%MOVEMENT SLOW:"
+		"DOTA_Tooltip_ability_creep_wolf_poison_duration"							"DURATION:"	
 	}	
 }	
