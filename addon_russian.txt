@@ -2664,19 +2664,24 @@
 		"difficulty_unfair" "Кошмар"
 		"difficulty_impossible" "Невозможно"
 		"difficulty_hardcore" "Беспощадный"
-		"difficulty_easy_info" "<font color='lightgreen'>+ Здоровье противников уменьшено на <b>50%</b> <br>+ Урон противников уменьшен на <b>50%</b> <br>+ Награда за убийство увеличина на <b>200%</b> <br><b>+ Все герои получают 2 положительных эффекта</b></font>"
+		"difficulty_apocalypse" "Апокалипс"
 
-        "difficulty_normal_info" "• Здоровье противников <b>100%</b> <br>• Урон противников <b>100%</b> <br><font color='lightgreen'><b>+ Всe герои получают 1 положительный эффект</b></font><br><font color='red'><b>- Всe противники получают 1 положительный эффект</b></font>"
-        
-        "difficulty_hard_info" "<font color='red'>• Здоровье противников увеличено на <b>150%</b> <br>• Урон противников увеличен на <b>200%</b> <br><b>- Все герои получают 2 отрицательных эффекта</b><br><b>- Всe противники получают 2 положительных эффекта</b></font>"
-        
-        "difficulty_unfair_info" "<font color='red'>• Здоровье противников увеличено на <b>200%</b> <br>• Урон противников увеличен на <b>400%</b> <br><b>- Все герои получают 3 отрицательных эффекта</b><br><b>- Всe противники получают 3 положительных эффекта</b></font>"
-        
-        "difficulty_impossible_info" "<font color='red'>- Здоровье противников увеличено на <b>400%</b><br>- Урон противников увеличен на <b>800%</b> <br>- Вы получаете на <b>10%</b> меньше золота за убийство <br>- У игрока всего <b>10</b> жизней <br><b>- Все герои получают 4 отрицательных эффекта</b><br><b>- Всe противники получают 4 положительных эффекта</b></font>"
-        
-        "difficulty_infinity_info" "<font color='red'>- Здоровье противников увеличено на <b>800%</b><br>- Урон противников увеличен на <b>1600%</b> <br>- Вы получаете на <b>20%</b> меньше золота за убийство <br>- У игрока всего <b>5</b> жизней <br><b>- Все герои получают 4 отрицательных эффекта</b><br><b>- Всe противники получают 4 положительных эффекта</b></font>"
 
-        "difficulty_hardcore_info" "<font color='red'>- Здоровье противников увеличено на <b>1000%</b><br>- Урон противников увеличен на <b>3200%</b> <br>- Вы получаете на <b>30%</b> меньше золота за убийство <br>- У игрока всего <b>1</b> жизней <br><b>- Все герои получают 4 отрицательных эффекта</b><br><b>- Всe противники получают 4 положительных эффекта</b></font>"
+		"difficulty_easy_info" "<font color='lightgreen'>+ У врагов на <b>50%</b> меньше здоровья<br>+ Враги наносят на <b>50%</b> меньше урона<br>+ С врагов выпадает на <b>200%</b> больше золота после их убийства</font>"
+
+        "difficulty_normal_info" "• У врагов <b>100%</b> здоровья<br>• Враги наносят <b>100%</b> урона</font>"
+
+        "difficulty_hard_info" "<font color='red'>• У врагов на <b>150%</b> больше здоровья<br>• Враги наносят на <b>200%</b> больше урона</font>"
+
+        "difficulty_unfair_info" "<font color='red'>• У врагов на <b>200%</b> больше здоровья<br>• Враги наносят на <b>400%</b> больше урона</font>"
+
+        "difficulty_impossible_info" "<font color='red'>- У врагов на <b>400%</b> больше здоровья<br>- Враги наносят на <b>800%</b> больше урона<br>- Ваш лимит <b>x10</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>25%</b> больше золота после их убийства</font>"
+
+        "difficulty_infinity_info" "<font color='red'>- У врагов на <b>800%</b> больше здоровья<br>- Враги наносят на <b>1600%</b> больше урона<br>- Ваш лимит <b>x5</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>30%</b> больше золота после их убийства</font>"
+
+        "difficulty_hardcore_info" "<font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>35%</b> больше золота после их убийства</font>"
+
+        "difficulty_apocalypse_info" "<font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Получение <b>10 удара</b> с любого врага мгновенно вас убьёт</font><br><font color='lightgreen'>+ С врагов выпадает на <b>40%</b> больше золота после их убийства</font>"
 
         "DOTA_Tooltip_ability_huskar_berserkers_blood_custom" "Berserker's Blood"
   "DOTA_Tooltip_ability_huskar_berserkers_blood_custom_Description" "Раны Huskar подпитывают его силу, увеличивая скорость атаки и броню на основе недостающего здоровья. Он также получает регенерацию здоровья, основанную на проценте от его максимального здоровья."
@@ -5731,5 +5736,8 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_ability_creep_wolf_poison_attack_speed"						"ATTACK SLOW:"
 		"DOTA_Tooltip_ability_creep_wolf_poison_movement_speed"					"%MOVEMENT SLOW:"
 		"DOTA_Tooltip_ability_creep_wolf_poison_duration"							"DURATION:"	
+
+		"DOTA_Tooltip_modifier_difficulty_apocalypse_counter" "Hit Counter"
+		"DOTA_Tooltip_modifier_difficulty_apocalypse_counter_Description" "Вы мгновенно умрете, если этот счетчик достигнет 10."
 	}	
 }	
