@@ -2645,15 +2645,30 @@
 		"lost_soul_not_shop" "Этот предмет можно приобрести только у фонтана"
 		"lost_soul_not_stash" "Невозможно поместить этот предмет в тайник"
 
-		"effects_disabled_info" "Отключает модификаторы крипов и игроков на всех сложностях, вам будет гораздо легче играть. "
-		"effects_enabled_info" "Игроки и крипы будут получать положительные и отрицательные модификаторы в зависимости от сложности, что значительно усложнит игру."
-		"effects_enabled" "Эффекты"
-		"effects_yes" "ВКЛ"
-		"effects_no" "ВЫКЛ"
+		"effects_disabled_info" "Отключает модификаторы крипов и игрока на всех сложностях из-за чего вам будет гораздо легче играть. "
+        "effects_enabled_info" "Игроки и крипы будут получать полезные и негативные модификаторы в зависимости от сложности, делая игру гораздо сложнее."
+        "effects_enabled" "Модификаторы"
+        "effects_yes" "Режим Выживания (ON)"
+        "effects_no" "Режим Выживания (OFF)"
+
+        "fast_bosses_disabled_info" "Крипы и боссы имеют обычное время возрождения."
+        "fast_bosses_enabled_info" "Крипы и боссы возрождаются в два раза быстрее."
+        "fast_bosses_yes" "Быстрое возрождение (ON)"
+        "fast_bosses_no" "Быстрое возрождение (OFF)"
+
+        "gold_disabled_info" "Зарабатывайте обычное количество золота с убийства врагов."
+        "gold_enabled_info" "Зарабатывайте в два раза больше золота с убийства врагов."
+        "gold_yes" "Двойное золото (ON)"
+        "gold_no" "Двойное золото (OFF)"
+
+        "exp_disabled_info" "Получайте опыт по обычному."
+        "exp_enabled_info" "Получайте опыт в два раза лучше."
+        "exp_yes" "Двойной опыт (ON)"
+        "exp_no" "Двойной опыт (OFF)"
 		
 		"waves_disabled_info" "Полностью отключает патрулирование."
 		"waves_enabled_info" "Патрули врагов будут появляться из испорченной цитадели и нападать на Мировую душу. Ваша задача - защитить ее. Вы проиграете, если она будет уничтожена."
-		"difficulty_select" "Выберите сложность"
+		"difficulty_select" "Game Settings"
 		"waves_enabled" "Патруль"
 		"waves_yes" "ВКЛ"
 		"waves_no" "ВЫКЛ"
@@ -2667,21 +2682,21 @@
 		"difficulty_apocalypse" "Апокалипс"
 
 
-		"difficulty_easy_info" "<font color='lightgreen'>+ У врагов на <b>50%</b> меньше здоровья<br>+ Враги наносят на <b>50%</b> меньше урона<br>+ С врагов выпадает на <b>200%</b> больше золота после их убийства</font>"
+		"difficulty_easy_info" "<h1>Введение</h1><font color='lightgreen'>+ У врагов на <b>50%</b> меньше здоровья<br>+ Враги наносят на <b>50%</b> меньше урона<br>+ С врагов выпадает на <b>200%</b> больше золота после их убийства</font>"
 
-        "difficulty_normal_info" "• У врагов <b>100%</b> здоровья<br>• Враги наносят <b>100%</b> урона</font>"
+        "difficulty_normal_info" "<h1>Средне</h1>• У врагов <b>100%</b> здоровья<br>• Враги наносят <b>100%</b> урона</font>"
 
-        "difficulty_hard_info" "<font color='red'>• У врагов на <b>150%</b> больше здоровья<br>• Враги наносят на <b>200%</b> больше урона</font>"
+        "difficulty_hard_info" "<h1>Сложно</h1><font color='red'>• У врагов на <b>150%</b> больше здоровья<br>• Враги наносят на <b>200%</b> больше урона</font>"
 
-        "difficulty_unfair_info" "<font color='red'>• У врагов на <b>200%</b> больше здоровья<br>• Враги наносят на <b>400%</b> больше урона</font>"
+        "difficulty_unfair_info" "<h1>Кошмар</h1><font color='red'>• У врагов на <b>200%</b> больше здоровья<br>• Враги наносят на <b>400%</b> больше урона</font>"
 
-        "difficulty_impossible_info" "<font color='red'>- У врагов на <b>400%</b> больше здоровья<br>- Враги наносят на <b>800%</b> больше урона<br>- Ваш лимит <b>x10</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>25%</b> больше золота после их убийства</font>"
+        "difficulty_impossible_info" "<h1>Невозможно</h1><font color='red'>- У врагов на <b>400%</b> больше здоровья<br>- Враги наносят на <b>800%</b> больше урона<br>- Ваш лимит <b>x10</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>25%</b> больше золота после их убийства</font>"
 
-        "difficulty_infinity_info" "<font color='red'>- У врагов на <b>800%</b> больше здоровья<br>- Враги наносят на <b>1600%</b> больше урона<br>- Ваш лимит <b>x5</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>30%</b> больше золота после их убийства</font>"
+        "difficulty_infinity_info" "<h1>Ад</h1><font color='red'>- У врагов на <b>800%</b> больше здоровья<br>- Враги наносят на <b>1600%</b> больше урона<br>- Ваш лимит <b>x5</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>30%</b> больше золота после их убийства</font>"
 
-        "difficulty_hardcore_info" "<font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>35%</b> больше золота после их убийства</font>"
+        "difficulty_hardcore_info" "<h1>Беспощадный</h1><font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока</font><br><font color='lightgreen'>+ С врагов выпадает на <b>35%</b> больше золота после их убийства</font>"
 
-        "difficulty_apocalypse_info" "<font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Получение <b>10 удара</b> с любого врага мгновенно вас убьёт</font><br><font color='lightgreen'>+ С врагов выпадает на <b>40%</b> больше золота после их убийства</font>"
+        "difficulty_apocalypse_info" "<h1>Апокалипс</h1><font color='red'>- У врагов на <b>1000%</b> больше здоровья<br>- Враги наносят на <b>3200%</b> больше урона<br>- Ваш лимит <b>x1</b> жизней на игрока<br>- Получение <b>10 удара</b> с любого врага мгновенно вас убьёт</font><br><font color='lightgreen'>+ С врагов выпадает на <b>40%</b> больше золота после их убийства</font>"
 
         "DOTA_Tooltip_ability_huskar_berserkers_blood_custom" "Berserker's Blood"
   "DOTA_Tooltip_ability_huskar_berserkers_blood_custom_Description" "Раны Huskar подпитывают его силу, увеличивая скорость атаки и броню на основе недостающего здоровья. Он также получает регенерацию здоровья, основанную на проценте от его максимального здоровья."
@@ -3963,7 +3978,7 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_extra_attack_10_Description" "Раз в 10 секунд совершает двойной удар."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_hp_regen_pct_1" "Health Regeneration"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_hp_regen_pct_1_Description" "Пассивно восстанавливает 1%%% своего максимального здоровья каждую секунду."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_hp_regen_pct_1_Description" "Пассивно восстанавливает 5%%% своего максимального здоровья каждую секунду."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_reduced_healing_50" "Healing Reduction"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_reduced_healing_50_Description" "Все источники исцеления уменьшены на 50%%%"
@@ -4013,7 +4028,9 @@
 		"DOTA_Tooltip_Ability_item_bloodletting_blade_5_bonus_health_regen" "+$hp_regen"
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_petrify_10" "Petrify"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_petrify_10_Description" "Каждая атака имеет 10%%% шанс обратить цель в камень. Цель не может передвигаться или атаковат в течении 1 сек. <i>(время перезарядки 6 секунд)</i>"
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_petrify_10_Description" "Each attack has a 10%%% chance to petrify the target, causing them to become immobile and unable to attack for 1 second. You can only be affected by Petrify once every 10 seconds."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_petrify_10_petrified" "Petrified"
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_petrify_10_petrified_Description" "Immobile and unable to act."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_15" "Corpse Explosion"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_death_explosion_15_Description" "Will erupt violently upon death, dealing damage to all nearby heroes and controlled units equal to 15%%% of this units max health as magical damage."
@@ -4025,7 +4042,7 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_petrify_10_petrified_Description" "Неподвижный и неспособный что-либо делать."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_attack_speed_missing_hp_50" "Life Blood"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_attack_speed_missing_hp_50_Description" "Пассивно увеличена скорость атаки в зависимости от недостающего здоровья юнитов, максимум на 50%%%."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_attack_speed_missing_hp_50_Description" "Increases the attack speed of this unit by +25 for every 10%%% of its missing health."
 
 		"DOTA_Tooltip_Ability_huskar_vitality_explosion_custom" "Vitality Explosion"
 		"DOTA_Tooltip_Ability_huskar_vitality_explosion_custom_shard_Description" "Лечит Huskar за нанесенный по каждой задетой цели урон"
@@ -4049,7 +4066,7 @@
 		"DOTA_Tooltip_modifier_player_difficulty_boon_reduced_healing_40_Description" "All sources of healing, lifesteal and regeneration is being reduced by -40%%%"
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_health_drain_5" "Health Drain"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_health_drain_5_Description" "You're constantly losing -5%%% of your max health every second (lethal)."
+		"DOTA_Tooltip_modifier_player_difficulty_boon_health_drain_5_Description" "You're constantly losing -3%%% of your max health every second (lethal)."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_misfire_50" "Malevolent Shadow"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_misfire_50_Description" "Each attack has a 50%%% chance to spawn a twisted copy of your hero at your location. It will strike you once before vanishing. <i>(4 seconds cooldown)</i>"
@@ -4076,7 +4093,7 @@
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_attack_speed_missing_hp_80_Description" "Passively increased the attack speed based on the units missing health, up to a maximum of +80%%% increased attack speed."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_mana_burn_5" "Mana Burn"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_mana_burn_5_Description" "Each attack burns -5%%% of the targets max mana and deals damage equal to the amount burned."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_mana_burn_5_Description" "Each attack burns -5%%% of the targets max mana and deals damage equal to the amount burned. You can only be affected by mana burn every 1.5 seconds."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_20" "Wraith"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_20_Description" "When this unit dies it will re-appear as a wraith with +30%% of its max health remaining. It will continue to regenerate +5%% of its max health over 20 seconds or until killed again. Does not proc if it is already a wraith."
@@ -4232,30 +4249,30 @@
 		"DOTA_Tooltip_modifier_player_difficulty_boon_reduced_healing_and_health_drain_5_75_Description" "All sources of healing, lifesteal and regeneration is being reduced by -75%% and you lose -5%% of your health every second."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5" "Mana/HP Leak"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_Description" "Every time you take damage or spend mana, you gain a debuff that drains -5%%% of that resource every second for 3 seconds and disables passive regeneration of that resource."
+		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_Description" "Every time you take damage, you lose -5%% of your current health every second for 3 seconds and have all regeneration reduced by -30%%. Every time you spend mana, you lose -5%%% of your current mana every second for 3 seconds."
 		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_hp_debuff" "HP Leak"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_hp_debuff_Description" "Losing -5%%% of your health every second and your health regeneration is disabled."
+		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_hp_debuff_Description" "Losing -5%% of your health every second and your regeneration is reduced by -30%%."
 		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_mana_debuff" "Mana/HP Leak"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_mana_debuff_Description" "Losing -5%%% of your mana every second and your mana regeneration is disabled."
+		"DOTA_Tooltip_modifier_player_difficulty_boon_leaky_5_mana_debuff_Description" "Losing -5%% of your mana every second."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_weapon_destruction_30" "Item Destruction"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_weapon_destruction_30_Description" "There is a 30%%% chance for a random item in your inventory to be destroyed when you die. Does not destroy items in your backpack or neutral slot."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30" "Disarm"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_Description" "There is a 30%%% chance to disarm yourself whenever you attack. <i>(10 second cooldown)</i>"
+		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_Description" "Every 10 seconds you get disarmed, unable to attack."
 		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_disarmed" "Disarmed"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_disarmed_Description" "You cannot attack."
 
 		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30" "Hex"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30_Description" "There is a 30%%% chance to turn yourself into a sheep every time you deal magical (or pure) damage to an enemy. <i>(10 second cooldown)</i>"
+		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30_Description" "Every 10 seconds you will turn into a harmless sheep."
 		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30_hexed" "Hexed"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30_hexed_Description" "Bwaaah!"
 
-		"DOTA_Tooltip_modifier_player_difficulty_boon_self_death_explosion_60" "Nuclear Death"
-		"DOTA_Tooltip_modifier_player_difficulty_boon_self_death_explosion_60_Description" "You release a nuclear explosion upon death, dealing 60%%% of your max health as damage to all nearby allies within a 400 radius."
+		"DOTA_Tooltip_modifier_player_difficulty_boon_self_death_explosion_60" "Inverted Dispersion"
+		"DOTA_Tooltip_modifier_player_difficulty_boon_self_death_explosion_60_Description" "Whenever you are attacked, a portion of that damage is reflected back onto nearby allies. Does not reduce the incoming damage."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_magical_damage_40" "Magical Attacks"
-		"DOTA_Tooltip_modifier_enemy_difficulty_buff_magical_damage_40_Description" "Deals an additional +40%%% of attack damage as magical damage to the target on attacks."
+		"DOTA_Tooltip_modifier_enemy_difficulty_buff_magical_damage_40_Description" "Deals an additional +5%%% of attack damage as magical damage to the target on attacks."
 
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10" "Wraith"
 		"DOTA_Tooltip_modifier_enemy_difficulty_buff_wraith_5_10_Description" "When this unit dies it will re-appear as a wraith with +30%% of its max health remaining. It will continue to regenerate +10%% of its max health over 10 seconds or until killed again. Does not proc if it is already a wraith."
@@ -5753,5 +5770,10 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_modifier_difficulty_apocalypse_counter_Description" "Вы мгновенно умрете, если этот счетчик достигнет 10."
 
 		"gold_bank_info" "<b color='gold'>Копилка</b><br>Всё золото, полученное после достижения его лимита отправится в вашу Копилку.<br><br>Каждый раз когда вы тратите золото, горстка золота из вашей Копилки будет отправлена на ваш обычный баланс золота, чтобы покрыть ваши траты."
+
+		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30_countdown" "Hex"
+		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30_countdown_Description" "You're about to turn into a harmless sheep!"
+		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_countdown" "Disarm"
+		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_countdown_Description" "You're about to be disarmed!"
 	}	
 }	
