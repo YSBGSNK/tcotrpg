@@ -1854,7 +1854,7 @@
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr"    "Strygwyr's Bloodstone"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов. 
+<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Passive: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
 "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_bonus_intellect"    "+$int"
@@ -1867,7 +1867,7 @@
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2"    "Strygwyr's Bloodstone LVL2"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов. 
+<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Passive: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
 "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_bonus_intellect"    "+$int"
@@ -1880,7 +1880,7 @@
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_2_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3"    "Strygwyr's Bloodstone LVL3"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов. 
+<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Passive: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
 "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_3_bonus_intellect"    "+$int"
@@ -1894,7 +1894,7 @@
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4"    "Strygwyr's Bloodstone LVL4"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов. 
+<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Passive: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
 "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_4_bonus_intellect"    "+$int"
@@ -1908,7 +1908,7 @@
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5"    "Strygwyr's Lost Bloodstone"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов. 
+<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Passive: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
 "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_5_bonus_intellect"    "+$int"
@@ -1922,7 +1922,7 @@
 
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6"    "Strygwyr's Rainbow Bloodstone"
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_description"    "<h1>Активное: Strygwyr's Blood Pact</h1> Превращает %mana_cost_percentage%%% от максимального запаса маны в здоровье в течение %restore_duration% секунд.
-<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов. 
+<h1>Пассивное: Mana Battery</h1>Каждый заряд увеличивает восстановление маны на %regen_per_charge% и увеличивает бонус к урону заклинаний на %amp_per_charge%%%. Убийство крипов даёт %kill_charges% заряд. Начинает с %initial_charges_tooltip% зарядов. Максимум %max_charges% зарядов.\n<h1>Passive: Blood Magic</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect. 
 "
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_Lore"    "Infused with the raw power of Strygwyr, the Bloodseeker."
         "DOTA_Tooltip_Ability_item_bloodstone_strygwyr_6_bonus_intellect"    "+$int"
@@ -3805,7 +3805,7 @@
 		"DOTA_Tooltip_modifier_item_additional %agi_dmg%%% of your Primary Attribute_debuff_Description" "Magic resistance lowered by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%"
 
 		"DOTA_Tooltip_Ability_item_star_shard"    "Star Shard"
-		"DOTA_Tooltip_Ability_item_star_shard_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown.\n<h1>Пассивное: Arcane Power</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect"
+		"DOTA_Tooltip_Ability_item_star_shard_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown."
 		"DOTA_Tooltip_ability_item_star_shard_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_bonus_attack_speed"			"+$attack"
@@ -3814,7 +3814,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_2"    "Star Shard LVL2"
-		"DOTA_Tooltip_Ability_item_star_shard_2_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown.\n<h1>Пассивное: Arcane Power</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect"
+		"DOTA_Tooltip_Ability_item_star_shard_2_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown."
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_2_bonus_attack_speed"			"+$attack"
@@ -3823,7 +3823,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_2_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_3"    "Star Shard LVL3"
-		"DOTA_Tooltip_Ability_item_star_shard_3_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown.\n<h1>Пассивное: Arcane Power</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect"
+		"DOTA_Tooltip_Ability_item_star_shard_3_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown."
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_3_bonus_attack_speed"			"+$attack"
@@ -3832,7 +3832,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_3_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_4"    "Star Shard LVL4"
-		"DOTA_Tooltip_Ability_item_star_shard_4_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown.\n<h1>Пассивное: Arcane Power</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect"
+		"DOTA_Tooltip_Ability_item_star_shard_4_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown."
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_4_bonus_attack_speed"			"+$attack"
@@ -3841,7 +3841,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_4_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_5"    "Star Shard LVL5"
-		"DOTA_Tooltip_Ability_item_star_shard_5_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown.\n<h1>Пассивное: Arcane Power</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect"
+		"DOTA_Tooltip_Ability_item_star_shard_5_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown."
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_5_bonus_attack_speed"			"+$attack"
@@ -3850,7 +3850,7 @@
 		"DOTA_Tooltip_ability_item_star_shard_5_mana_regen"			"+$mana_regen"
 
 		"DOTA_Tooltip_Ability_item_star_shard_6"    "Star Shard LVL6"
-		"DOTA_Tooltip_Ability_item_star_shard_6_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown.\n<h1>Пассивное: Arcane Power</h1>Your outgoing magical damage is increased by %agi_to_magic_pct%%% of your Intellect"
+		"DOTA_Tooltip_Ability_item_star_shard_6_Description"    "<h1>Активное: Starfall</h1>Causes your attacks to shoot additional stars that deals %active_agi_as_damage_pct%%% of your Intellect as magical damage to all enemies in a %star_aoe% radius around the target and lowers their magic resistance by %star_magic_res%%% for %star_magic_res_duration% seconds. <i>(Ranged Heroes Only)</i><br><br>This has a %star_chance%%% chance of triggering on every attack even when it's on cooldown."
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_intellect"				"+$int"
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_agility"				"+$agi"
 		"DOTA_Tooltip_ability_item_star_shard_6_bonus_attack_speed"			"+$attack"
