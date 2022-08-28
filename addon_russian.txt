@@ -2159,7 +2159,7 @@
 
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor" "Enchanted Armor"
-		"DOTA_Tooltip_Ability_item_enchanted_armor_Description" "<h1>Переключаемое: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana.<br><br><b>Damage per Mana:</b> %damage_per_mana%<br><br>If the damage taken is more than your max health, you become invulnerable for %immunity_duration% seconds and the item goes on cooldown for 30 seconds.\n<h1>Пассивное: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Passive: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_health" "+$health"
@@ -2172,7 +2172,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor2" "Enchanted Armor LVL2"
-		"DOTA_Tooltip_Ability_item_enchanted_armor2_Description" "<h1>Переключаемое: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana.<br><br><b>Damage per Mana:</b> %damage_per_mana%<br><br>If the damage taken is more than your max health, you become invulnerable for %immunity_duration% seconds and the item goes on cooldown for 30 seconds.\n<h1>Пассивное: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor2_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Passive: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_health" "+$health"
@@ -2185,7 +2185,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor2_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor3" "Enchanted Armor LVL3"
-		"DOTA_Tooltip_Ability_item_enchanted_armor3_Description" "<h1>Переключаемое: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana.<br><br><b>Damage per Mana:</b> %damage_per_mana%<br><br>If the damage taken is more than your max health, you become invulnerable for %immunity_duration% seconds and the item goes on cooldown for 30 seconds.\n<h1>Пассивное: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor3_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Passive: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_health" "+$health"
@@ -2198,7 +2198,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor3_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor4" "Enchanted Armor LVL4"
-		"DOTA_Tooltip_Ability_item_enchanted_armor4_Description" "<h1>Переключаемое: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana.<br><br><b>Damage per Mana:</b> %damage_per_mana%<br><br>If the damage taken is more than your max health, you become invulnerable for %immunity_duration% seconds and the item goes on cooldown for 30 seconds.\n<h1>Пассивное: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor4_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Passive: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_health" "+$health"
@@ -2211,7 +2211,7 @@
 		"DOTA_Tooltip_Ability_item_enchanted_armor4_bonus_lifesteal_amp" "%+Lifesteal Amplification"
 
 		"DOTA_Tooltip_Ability_item_enchanted_armor5" "Enchanted Armor LVL5"
-		"DOTA_Tooltip_Ability_item_enchanted_armor5_Description" "<h1>Переключаемое: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana.<br><br><b>Damage per Mana:</b> %damage_per_mana%<br><br>If the damage taken is more than your max health, you become invulnerable for %immunity_duration% seconds and the item goes on cooldown for 30 seconds.\n<h1>Пассивное: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
+		"DOTA_Tooltip_Ability_item_enchanted_armor5_Description" "<h1>Toggle: Mana Shield</h1>Creates a shield that absorbs %max_absorbed_damage_pct%%% of incoming damage in exchange for your mana, up to %damage_per_mana% + %int_to_damage_per_mana%%% of your Intellect per damage taken.<br><br>If you take damage equal to or more than your health, you become invulnerable for %immunity_duration% seconds and Enchanted Armor goes on cooldown for 30 seconds.\n<h1>Passive: Mana Regeneration</h1>Grants mana regeneration equal to %mana_regen_from_max_mana_pct%%% of your maximum mana."
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_intellect" "+$int"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_strength" "+$str"
 		"DOTA_Tooltip_Ability_item_enchanted_armor5_bonus_health" "+$health"
@@ -5775,5 +5775,12 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_modifier_player_difficulty_boon_hex_30_countdown_Description" "You're about to turn into a harmless sheep!"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_countdown" "Disarm"
 		"DOTA_Tooltip_modifier_player_difficulty_boon_disarm_30_countdown_Description" "You're about to be disarmed!"
+
+		"DOTA_Tooltip_modifier_legion_commander_duel_custom_window_boost" "Courage"
+		"DOTA_Tooltip_modifier_legion_commander_duel_custom_window_boost" "Courage time window does not shrink when killing enemies."
+		"DOTA_Tooltip_Ability_legion_commander_duel_custom_scepter_Description" "Duel becomes an active that can be used to reset Courage and temporarily apply a permanent version of it to Legion Commander that is not removed over time."
+		"DOTA_Tooltip_Ability_legion_commander_duel_custom_active_duration" "DURATION:"
+		"DOTA_Tooltip_Ability_legion_commander_duel_custom_active_mana_cost" "MANA COST:"
+		"DOTA_Tooltip_Ability_legion_commander_duel_custom_active_cooldown" "COOLDOWN:"
 	}	
 }	
