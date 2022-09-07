@@ -3629,7 +3629,7 @@
         "DOTA_Tooltip_Ability_item_octarines_blessing_6_creep_lifesteal"    "%+к вампиризму заклинаниями (от крипов)"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal"    "Battlemage's Arsenal"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_description"    "<h1>Активное: Overcharge</h1>Your attacks become magical for %duration% seconds. <i>(Ranged Only)</i>\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession <i>(Ranged Only)</i><br><br>Cooldown: %double_attack_cd% seconds.
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>
 <h1>Пассивное: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_bonus_health"    "+$health"
@@ -3644,7 +3644,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_mana_regen_multiplier"    "%+к усилению восстановления маны"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2"    "Battlemage's Arsenal LVL2"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_description"    "<h1>Активное: Overcharge</h1>Your attacks become magical for %duration% seconds. <i>(Ranged Only)</i>\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession <i>(Ranged Only)</i><br><br>Cooldown: %double_attack_cd% seconds.
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>
 <h1>Пассивное: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_bonus_health"    "+$health"
@@ -3659,7 +3659,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_mana_regen_multiplier"    "%+к усилению восстановления маны"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_2_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3"    "Battlemage's Arsenal LVL3"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_description"    "<h1>Активное: Overcharge</h1>Your attacks become magical for %duration% seconds. <i>(Ranged Only)</i>\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession <i>(Ranged Only)</i><br><br>Cooldown: %double_attack_cd% seconds.
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>
 <h1>Пассивное: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_bonus_health"    "+$health"
@@ -3675,7 +3675,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_3_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4"    "Battlemage's Arsenal LVL4"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_description"    "<h1>Активное: Overcharge</h1>Your attacks become magical for %duration% seconds. <i>(Ranged Only)</i>\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession <i>(Ranged Only)</i><br><br>Cooldown: %double_attack_cd% seconds.
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>
 <h1>Пассивное: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_bonus_health"    "+$health"
@@ -3691,7 +3691,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_4_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5"    "Battlemage's Arsenal LVL5"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_description"    "<h1>Активное: Overcharge</h1>Your attacks become magical for %duration% seconds. <i>(Ranged Only)</i>\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession <i>(Ranged Only)</i><br><br>Cooldown: %double_attack_cd% seconds.
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>
 <h1>Пассивное: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_bonus_health"    "+$health"
@@ -3707,7 +3707,7 @@
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_5_spell_lifesteal_amp"    "%+к усилению вампиризма от заклинаний"
 
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6"    "Battlemage's Arsenal LVL6"
-        "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_description"    "<h1>Активное: Overcharge</h1>Your attacks become magical for %duration% seconds. <i>(Ranged Only)</i>\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession <i>(Ranged Only)</i><br><br>Cooldown: %double_attack_cd% seconds.
+        "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_description"    "<h1>Active: Overcharge</h1>Causes your attacks to deal magical damage instead of physical for %duration% seconds, and allowing you to attack ethereal units.\n<h1>Пассивное: Echo Curse</h1>You attack twice in quick succession every %double_attack_cd% seconds. <i>(Ranged Only)</i>
 <h1>Пассивное: Poison Strike</h1>Causes your next attack to apply a poison for %slow_duration% seconds, slowing by %slow%%% and dealing %int_damage_multiplier%x your intelligence as damage every second. This attack has True Strike and shares cooldown with Echo Curse."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_Lore"    "The perfect weapon for the best of battlemages."
         "DOTA_Tooltip_Ability_item_battlemage_arsenal_6_bonus_health"    "+$health"
@@ -6007,7 +6007,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_2" "Vashundol's Fury LVL2"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_2_Lore" "Forged in the fires of Vashundol."
@@ -6020,7 +6020,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_2_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_2_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_2_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_2_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_2_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_3" "Vashundol's Fury LVL3"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_3_Lore" "Forged in the fires of Vashundol."
@@ -6033,7 +6033,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_3_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_3_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_3_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_3_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_3_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_4" "Vashundol's Fury LVL4"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_4_Lore" "Forged in the fires of Vashundol."
@@ -6046,7 +6046,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_4_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_4_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_4_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_4_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_4_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_5" "Vashundol's Fury LVL5"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_5_Lore" "Forged in the fires of Vashundol."
@@ -6059,7 +6059,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_5_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_5_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_5_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_5_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_5_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_6" "Vashundol's Fury LVL6"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_6_Lore" "Forged in the fires of Vashundol."
@@ -6072,7 +6072,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_6_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_6_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_6_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_6_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_6_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_7" "Lost Vashundol's Fury"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_7_Lore" "Forged in the fires of Vashundol."
@@ -6085,7 +6085,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_7_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_7_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_7_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_7_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_7_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_8" "Rainbow Vashundol's Fury"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_8_Lore" "Forged in the fires of Vashundol."
@@ -6098,11 +6098,11 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_8_bonus_attack_speed" "+$attack"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_8_bonus_movement_speed_pct" "%+Movement Speed"
 		"DOTA_Tooltip_Ability_item_vashundol_cleaver_8_bonus_regen_amp" "%+Health Regen And Lifesteal Amp"
-		"DOTA_Tooltip_Ability_item_vashundol_cleaver_8_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit. <i>(Melee Only)</i>\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
+		"DOTA_Tooltip_Ability_item_vashundol_cleaver_8_Description" "<h1>Active: Chop Tree</h1>Destroy a target tree.<br><br>Cast Range: %AbilityCastRange%\n<h1>Passive: Corruption</h1>Your attacks reduce the target's armor by %corruption_amount% for %corruption_duration% seconds.\n<h1>Passive: Soul Eater</h1>Killing an enemy unit grants you bonus damage equal to +%damage_buff_pct%%% of your base damage for %damage_buff_duration% seconds, stacks up to %damage_buff_max_stacks% times.\n<h1>Passive: Cleave</h1>Your attacks deal %cleave_damage%%% of your damage in a %cleave_radius% radius around the target. The damage falls off based on the distance between the initial target and the affected unit.\n<h1>Passive: Quell</h1>Your attacks do an additional %quell_bonus_damage_pct%%% bonus damage to creeps."
 
 		"DOTA_Tooltip_Ability_obsidian_arcane_orb_custom" "Arcane Orb"
 		"DOTA_Tooltip_Ability_obsidian_arcane_orb_custom_Description" "Outworld Devourer's attacks deal bonus magical damage to all enemies hit in a small radius based on his current mana, but costs a portion of his max mana to cast.<br><br>Each attack grants Outworld Devourer a stack of Spiritual Energy, granting him bonus Intellect based on his base Intellect for a short duration. Each stack of Spiritual Energy has its own individual duration."
-		"DOTA_Tooltip_Ability_obsidian_arcane_orb_custom_attack_to_magic" "%MAGICAL DAMAGE FROM ATTACK:"
+		"DOTA_Tooltip_Ability_obsidian_arcane_orb_custom_attack_to_magic" "%DAMAGE FROM CURRENT MANA:"
 		"DOTA_Tooltip_Ability_obsidian_arcane_orb_custom_int_steal" "%GAIN FROM BASE INTELLECT:"
 		"DOTA_Tooltip_Ability_obsidian_arcane_orb_custom_int_steal_duration" "DURATION:"
 		"DOTA_Tooltip_Ability_obsidian_arcane_orb_custom_radius" "RADIUS:"
@@ -6136,7 +6136,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
  		"DOTA_Tooltip_modifier_obsidian_astral_eclipse_debuff_Description" "Magic Resistance decreased by -%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
 
  		"DOTA_Tooltip_Ability_obsidian_eclipse" "Sanity's Eclipse"
- 		"DOTA_Tooltip_Ability_obsidian_eclipse_Description" "Outworld Devourer concentrates his mana into a single area, draining a portion of it to unleash a devastating explosion, damaging all enemies inside and granting Outworld Devourer a temporary increase to his Intellect based on the amount of mana lost."
+ 		"DOTA_Tooltip_Ability_obsidian_eclipse_Description" "Outworld Devourer concentrates his current mana pool into a target area, draining a portion of it to unleash a devastating explosion, damaging all enemies inside and granting Outworld Devourer a temporary increase to his Intellect based on the amount of mana lost."
  		"DOTA_Tooltip_Ability_obsidian_eclipse_mana_drain" "%MANA DRAIN:"
  		"DOTA_Tooltip_Ability_obsidian_eclipse_radius" "RADIUS:"
  		"DOTA_Tooltip_Ability_obsidian_eclipse_cast_range" "CAST RANGE:"
@@ -6216,7 +6216,7 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
 
  		"DOTA_Tooltip_Ability_drow_ranger_frost_arrows_custom" "Frost Arrows"
  		"DOTA_Tooltip_Ability_drow_ranger_frost_arrows_custom_shard_Description" "Attacking an enemy will also apply frostbite to other enemies near the first target."
- 		"DOTA_Tooltip_Ability_drow_ranger_frost_arrows_custom_Description" "Drow Ranger's attacks inflict frostbite to enemies hit, dealing bonus damage and applying a stacking debuff that slows their movement speed. <br><br>If the max stacks of frostbite is reached then Hypothermia is applied to the target, dealing a portion of their max health as damage, as well as slowing their attack speed and movement speed further."
+ 		"DOTA_Tooltip_Ability_drow_ranger_frost_arrows_custom_Description" "Drow Ranger's attacks inflict frostbite to enemies hit, dealing bonus damage and applying a stacking debuff that slows their movement speed. <br><br>If the max stacks of frostbite is reached then Hypothermia is applied to the target, dealing a portion of their current health as damage to all nearby enemies, as well as slowing their attack speed and movement speed further."
  		"DOTA_Tooltip_Ability_drow_ranger_frost_arrows_custom_damage" "BONUS DAMAGE:"
  		"DOTA_Tooltip_Ability_drow_ranger_frost_arrows_custom_agi_to_damage" "%AGILITY BONUS DAMAGE:"
  		"DOTA_Tooltip_Ability_drow_ranger_frost_arrows_custom_move_slow" "%SLOW PER STACK:"
@@ -6233,16 +6233,15 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
  		"DOTA_Tooltip_modifier_drow_ranger_frost_arrows_custom_hypothermia_debuff_Description" "Movement Speed decreased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and Attack Speed decreased by %dMODIFIER_PROPERTY_ATTACKSPEED_PERCENTAGE%%%."
 
  		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom" "Marked for Death"
- 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_scepter_Description" "Allows allied ranged heroes to benefit from the critical strike chance when attacking an affected enemy, but with a reduced effectiveness."
- 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_Description" "Drow Ranger marks an enemy for death when attacking them, causing them to take more damage from all Ranged sources. Does not work if there is an enemy within the range of Drow Ranger.<br><br>Passively grants Drow Ranger a chance to launch a projectile that deals critical damage that cannot miss."
- 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_damage_increase" "%INCREASED DAMAGE TAKEN"
+ 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_Description" "Drow Ranger marks an enemy for death when attacking them, causing them to take critical damage from all physical attacks for a short duration. Does not work if there is an enemy within the range of Drow Ranger, regardless of vision.<br><br>Attacking an enemy that is Marked for Death grants Drow Ranger a small chance to launch a projectile that penetrates their defenses, dealing a portion of her damage as pure instead of physical."
+ 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_crit_bonus" "%CRITICAL STRIKE DAMAGE:"
  		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_duration" "DURATION:"
  		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_radius" "RANGE:"
- 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_crit_chance" "%CRITICAL ARROW CHANCE:"
- 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_crit_damage" "%CRITICAL ARROW DAMAGE:"
+ 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_pure_chance" "%PURE ARROW CHANCE:"
+ 		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_pure_damage" "%PURE ARROW DAMAGE:"
  		"DOTA_Tooltip_Ability_drow_ranger_marksmanship_custom_reduced_effectiveness" "%REDUCED EFFECTIVENESS:"
  		"DOTA_Tooltip_modifier_drow_ranger_marksmanship_custom_debuff" "Marked for Death"
- 		"DOTA_Tooltip_modifier_drow_ranger_marksmanship_custom_debuff_Description" "Damage taken increased by %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%."
+ 		"DOTA_Tooltip_modifier_drow_ranger_marksmanship_custom_debuff_Description" "Taking critical damage from physical attacks."
 
  		"DOTA_Tooltip_Ability_drow_ranger_gust_custom" "Wave of Frost"
  		"DOTA_Tooltip_Ability_drow_ranger_gust_custom_Description" "Drow Ranger fires a frozen arrow into the ground, releasing a wave of frost that freezes all enemies on impact, immobilizing them and dealing damage every second."
@@ -6250,5 +6249,128 @@ Viscous Nasal Goo becomes a no target area of effect ability, applying to all en
  		"DOTA_Tooltip_Ability_drow_ranger_gust_custom_damage" "DAMAGE:"
  		"DOTA_Tooltip_Ability_drow_ranger_gust_custom_agi_to_damage" "%AGI TO DAMAGE:"
  		"DOTA_Tooltip_Ability_drow_ranger_gust_custom_duration" "DURATION:"
+
+ 		"DOTA_Tooltip_Ability_drow_ranger_camouflage" "Cloak and Barrage"
+ 		"DOTA_Tooltip_Ability_drow_ranger_camouflage_Description" "Drow Ranger shrouds herself in a mist, becoming invisible for a short time. Attacking a target will break the invisibility and send down a barrage of arrows that deals damage to all nearby enemies, as well as stunning them and increasing the damage they take from all sources for a short time."
+ 		"DOTA_Tooltip_Ability_drow_ranger_camouflage_agi_to_damage" "%AGILITY DAMAGE:"
+ 		"DOTA_Tooltip_Ability_drow_ranger_camouflage_damage_increase" "%INCREASED DAMAGE TAKEN:"
+ 		"DOTA_Tooltip_Ability_drow_ranger_camouflage_debuff_duration" "DEBUFF DURATION:"
+ 		"DOTA_Tooltip_Ability_drow_ranger_camouflage_radius" "RADIUS:"
+ 		"DOTA_Tooltip_Ability_drow_ranger_camouflage_duration" "INVISIBILITY DURATION:"
+ 		"DOTA_Tooltip_modifier_drow_ranger_camouflage_buff" "Invisible"
+ 		"DOTA_Tooltip_modifier_drow_ranger_camouflage_buff_Description" "Your next attack while invisible will send a barrage of arrows down on an enemy."
+ 		"DOTA_Tooltip_modifier_drow_ranger_camouflage_debuff" "Stunned"
+ 		"DOTA_Tooltip_modifier_drow_ranger_camouflage_debuff_Description" "Stunned and taking %dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%% increaed damage from all sources."
+
+ 		"DOTA_Tooltip_Ability_item_mage_masher"    "Enchanted Lance"
+        "DOTA_Tooltip_Ability_item_mage_masher_description"    "<h1>Active: Hurricane Thrust</h1> Pushes you %push_length% units away from your current location.<br><br>Works like Force Staff when used on self or allies.<br><br>Enemy Range: %cast_range_enemy%
+<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes by %base_attack_range%.
+<h1>Passive: Take Aim</h1>All outgoing damage is increased by +%tooltip_multiplier%%% for every %min_damage_range% units between you and the target. Starting at %min_damage_range% units and capping at %max_damage_range% units."
+        "DOTA_Tooltip_Ability_item_mage_masher_Lore"    "A legendary pike once held as royal sigil of the ancient wyvern riders."
+        "DOTA_Tooltip_Ability_item_mage_masher_Note0"    "Self-cast will use Mage Masher on yourself."
+        "DOTA_Tooltip_Ability_item_mage_masher_Note1"    "Mage Masher doesn't interrupt the target's actions."
+        "DOTA_Tooltip_Ability_item_mage_masher_Note2"    "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+        "DOTA_Tooltip_Ability_item_mage_masher_bonus_health"    "+$health"
+        "DOTA_Tooltip_Ability_item_mage_masher_bonus_damage"    "+$attack"
+        "DOTA_Tooltip_Ability_item_mage_masher_bonus_agility"    "+$agi"
+        "DOTA_Tooltip_Ability_item_mage_masher_bonus_strength"    "+$str"
+        "DOTA_Tooltip_Ability_item_mage_masher_bonus_intellect"    "+$int"
+        "DOTA_Tooltip_Ability_item_mage_masher_bonus_magical_armor"    "%+$spell_resist"
+
+        "DOTA_Tooltip_Ability_item_mage_masher_2"    "Enchanted Lance LVL2"
+        "DOTA_Tooltip_Ability_item_mage_masher_2_description"    "<h1>Active: Hurricane Thrust</h1> Pushes you %push_length% units away from your current location.<br><br>Works like Force Staff when used on self or allies.<br><br>Enemy Range: %cast_range_enemy%
+<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes by %base_attack_range%.
+<h1>Passive: Take Aim</h1>All outgoing damage is increased by +%tooltip_multiplier%%% for every %min_damage_range% units between you and the target. Starting at %min_damage_range% units and capping at %max_damage_range% units."
+        "DOTA_Tooltip_Ability_item_mage_masher_2_Lore"    "A legendary pike once held as royal sigil of the ancient wyvern riders."
+        "DOTA_Tooltip_Ability_item_mage_masher_2_Note0"    "Self-cast will use Mage Masher on yourself."
+        "DOTA_Tooltip_Ability_item_mage_masher_2_Note1"    "Mage Masher doesn't interrupt the target's actions."
+        "DOTA_Tooltip_Ability_item_mage_masher_2_Note2"    "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+        "DOTA_Tooltip_Ability_item_mage_masher_2_bonus_health"    "+$health"
+        "DOTA_Tooltip_Ability_item_mage_masher_2_bonus_damage"    "+$attack"
+        "DOTA_Tooltip_Ability_item_mage_masher_2_bonus_agility"    "+$agi"
+        "DOTA_Tooltip_Ability_item_mage_masher_2_bonus_strength"    "+$str"
+        "DOTA_Tooltip_Ability_item_mage_masher_2_bonus_intellect"    "+$int"
+        "DOTA_Tooltip_Ability_item_mage_masher_2_bonus_magical_armor"    "%+$spell_resist"
+
+        "DOTA_Tooltip_Ability_item_mage_masher_7"    "Enchanted Lance LVL7"
+        "DOTA_Tooltip_Ability_item_mage_masher_7_description"    "<h1>Active: Hurricane Thrust</h1> Pushes you %push_length% units away from your current location.<br><br>Works like Force Staff when used on self or allies.<br><br>Enemy Range: %cast_range_enemy%
+<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes by %base_attack_range%.
+<h1>Passive: Take Aim</h1>All outgoing damage is increased by +%tooltip_multiplier%%% for every %min_damage_range% units between you and the target. Starting at %min_damage_range% units and capping at %max_damage_range% units."
+        "DOTA_Tooltip_Ability_item_mage_masher_7_Lore"    "A legendary pike once held as royal sigil of the ancient wyvern riders."
+        "DOTA_Tooltip_Ability_item_mage_masher_7_Note0"    "Self-cast will use Mage Masher on yourself."
+        "DOTA_Tooltip_Ability_item_mage_masher_7_Note1"    "Mage Masher doesn't interrupt the target's actions."
+        "DOTA_Tooltip_Ability_item_mage_masher_7_Note2"    "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+        "DOTA_Tooltip_Ability_item_mage_masher_7_bonus_health"    "+$health"
+        "DOTA_Tooltip_Ability_item_mage_masher_7_bonus_damage"    "+$attack"
+        "DOTA_Tooltip_Ability_item_mage_masher_7_bonus_agility"    "+$agi"
+        "DOTA_Tooltip_Ability_item_mage_masher_7_bonus_strength"    "+$str"
+        "DOTA_Tooltip_Ability_item_mage_masher_7_bonus_intellect"    "+$int"
+        "DOTA_Tooltip_Ability_item_mage_masher_7_bonus_magical_armor"    "%+$spell_resist"
+
+        "DOTA_Tooltip_Ability_item_mage_masher_3"    "Enchanted Lance LVL3"
+        "DOTA_Tooltip_Ability_item_mage_masher_3_description"    "<h1>Active: Hurricane Thrust</h1> Pushes you %push_length% units away from your current location.<br><br>Works like Force Staff when used on self or allies.<br><br>Enemy Range: %cast_range_enemy%
+<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes by %base_attack_range%.
+<h1>Passive: Take Aim</h1>All outgoing damage is increased by +%tooltip_multiplier%%% for every %min_damage_range% units between you and the target. Starting at %min_damage_range% units and capping at %max_damage_range% units."
+        "DOTA_Tooltip_Ability_item_mage_masher_3_Lore"    "A legendary pike once held as royal sigil of the ancient wyvern riders."
+        "DOTA_Tooltip_Ability_item_mage_masher_3_Note0"    "Self-cast will use Mage Masher on yourself."
+        "DOTA_Tooltip_Ability_item_mage_masher_3_Note1"    "Mage Masher doesn't interrupt the target's actions."
+        "DOTA_Tooltip_Ability_item_mage_masher_3_Note2"    "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+        "DOTA_Tooltip_Ability_item_mage_masher_3_bonus_health"    "+$health"
+        "DOTA_Tooltip_Ability_item_mage_masher_3_bonus_damage"    "+$attack"
+        "DOTA_Tooltip_Ability_item_mage_masher_3_bonus_agility"    "+$agi"
+        "DOTA_Tooltip_Ability_item_mage_masher_3_bonus_strength"    "+$str"
+        "DOTA_Tooltip_Ability_item_mage_masher_3_bonus_intellect"    "+$int"
+        "DOTA_Tooltip_Ability_item_mage_masher_3_bonus_magical_armor"    "%+$spell_resist"
+
+        "DOTA_Tooltip_Ability_item_mage_masher_4"    "Enchanted Lance LVL4"
+        "DOTA_Tooltip_Ability_item_mage_masher_4_description"    "<h1>Active: Hurricane Thrust</h1> Pushes you %push_length% units away from your current location.<br><br>Works like Force Staff when used on self or allies.<br><br>Enemy Range: %cast_range_enemy%
+<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes by %base_attack_range%.
+<h1>Passive: Take Aim</h1>All outgoing damage is increased by +%tooltip_multiplier%%% for every %min_damage_range% units between you and the target. Starting at %min_damage_range% units and capping at %max_damage_range% units."
+        "DOTA_Tooltip_Ability_item_mage_masher_4_Lore"    "A legendary pike once held as royal sigil of the ancient wyvern riders."
+        "DOTA_Tooltip_Ability_item_mage_masher_4_Note0"    "Self-cast will use Mage Masher on yourself."
+        "DOTA_Tooltip_Ability_item_mage_masher_4_Note1"    "Mage Masher doesn't interrupt the target's actions."
+        "DOTA_Tooltip_Ability_item_mage_masher_4_Note2"    "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+        "DOTA_Tooltip_Ability_item_mage_masher_4_bonus_health"    "+$health"
+        "DOTA_Tooltip_Ability_item_mage_masher_4_bonus_damage"    "+$attack"
+        "DOTA_Tooltip_Ability_item_mage_masher_4_bonus_agility"    "+$agi"
+        "DOTA_Tooltip_Ability_item_mage_masher_4_bonus_strength"    "+$str"
+        "DOTA_Tooltip_Ability_item_mage_masher_4_bonus_intellect"    "+$int"
+        "DOTA_Tooltip_Ability_item_mage_masher_4_bonus_magical_armor"    "%+$spell_resist"
+
+        "DOTA_Tooltip_Ability_item_mage_masher_5"    "Enchanted Lance LVL5"
+        "DOTA_Tooltip_Ability_item_mage_masher_5_description"    "<h1>Active: Hurricane Thrust</h1> Pushes you %push_length% units away from your current location.<br><br>Works like Force Staff when used on self or allies.<br><br>Enemy Range: %cast_range_enemy%
+<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes by %base_attack_range%.
+<h1>Passive: Take Aim</h1>All outgoing damage is increased by +%tooltip_multiplier%%% for every %min_damage_range% units between you and the target. Starting at %min_damage_range% units and capping at %max_damage_range% units."
+        "DOTA_Tooltip_Ability_item_mage_masher_5_Lore"    "A legendary pike once held as royal sigil of the ancient wyvern riders."
+        "DOTA_Tooltip_Ability_item_mage_masher_5_Note0"    "Self-cast will use Mage Masher on yourself."
+        "DOTA_Tooltip_Ability_item_mage_masher_5_Note1"    "Mage Masher doesn't interrupt the target's actions."
+        "DOTA_Tooltip_Ability_item_mage_masher_5_Note2"    "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+        "DOTA_Tooltip_Ability_item_mage_masher_5_bonus_health"    "+$health"
+        "DOTA_Tooltip_Ability_item_mage_masher_5_bonus_damage"    "+$attack"
+        "DOTA_Tooltip_Ability_item_mage_masher_5_bonus_agility"    "+$agi"
+        "DOTA_Tooltip_Ability_item_mage_masher_5_bonus_strength"    "+$str"
+        "DOTA_Tooltip_Ability_item_mage_masher_5_bonus_intellect"    "+$int"
+        "DOTA_Tooltip_Ability_item_mage_masher_5_bonus_magical_armor"    "%+$spell_resist"
+
+        "DOTA_Tooltip_Ability_item_mage_masher_6"    "Enchanted Lance LVL6"
+        "DOTA_Tooltip_Ability_item_mage_masher_6_description"    "<h1>Active: Hurricane Thrust</h1> Pushes you %push_length% units away from your current location.<br><br>Works like Force Staff when used on self or allies.<br><br>Enemy Range: %cast_range_enemy%
+<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes by %base_attack_range%.
+<h1>Passive: Take Aim</h1>All outgoing damage is increased by +%tooltip_multiplier%%% for every %min_damage_range% units between you and the target. Starting at %min_damage_range% units and capping at %max_damage_range% units."
+        "DOTA_Tooltip_Ability_item_mage_masher_6_Lore"    "A legendary pike once held as royal sigil of the ancient wyvern riders."
+        "DOTA_Tooltip_Ability_item_mage_masher_6_Note0"    "Self-cast will use Mage Masher on yourself."
+        "DOTA_Tooltip_Ability_item_mage_masher_6_Note1"    "Mage Masher doesn't interrupt the target's actions."
+        "DOTA_Tooltip_Ability_item_mage_masher_6_Note2"    "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+        "DOTA_Tooltip_Ability_item_mage_masher_6_bonus_health"    "+$health"
+        "DOTA_Tooltip_Ability_item_mage_masher_6_bonus_damage"    "+$attack"
+        "DOTA_Tooltip_Ability_item_mage_masher_6_bonus_agility"    "+$agi"
+        "DOTA_Tooltip_Ability_item_mage_masher_6_bonus_strength"    "+$str"
+        "DOTA_Tooltip_Ability_item_mage_masher_6_bonus_intellect"    "+$int"
+        "DOTA_Tooltip_Ability_item_mage_masher_6_bonus_magical_armor"    "%+$spell_resist"
+
+        "DOTA_Tooltip_modifier_battlemage_arsenal_attack_buff" "Overcharge"
+        "DOTA_Tooltip_modifier_battlemage_arsenal_attack_buff_Description" "Your attacks do magical damage and can attack ethereal units."
+
+        "DOTA_Tooltip_modifier_battlemage_arsenal_debuff" "Poisoned"
+        "DOTA_Tooltip_modifier_battlemage_arsenal_debuff_Description" "Taking periodic damage."
 	}	
 }	
