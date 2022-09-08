@@ -3537,7 +3537,7 @@
         "DOTA_Tooltip_Ability_bloodseeker_blood_mist_custom_interval" "ИНТЕРВАЛ:"
 
         "DOTA_Tooltip_Ability_bloodseeker_thirst_custom"    "Unquenchable Thirst"
-        "DOTA_Tooltip_Ability_bloodseeker_thirst_custom_description"    "Жажда крови Bloodseeker позволяет ему наносить повышенный урон, когда здоровье врагов падает ниже порогового значения. Убивая врага, Bloodseeker излечивается, уменьшая скорость базовое время на атаку (до определенного лимита) и получая усиление магического урона."
+        "DOTA_Tooltip_Ability_bloodseeker_thirst_custom_description"    "Жажда крови Bloodseeker позволяет ему наносить повышенный урон, когда здоровье врагов падает ниже порогового значения. Убивая врага, Bloodseeker излечивается, уменьшая базовое время на атаку (до определенного лимита) и получая усиление магического урона."
         "DOTA_Tooltip_Ability_bloodseeker_thirst_custom_hp_threshold"    "%ПОРОГ ЗДОРОВЬЯ:"
         "DOTA_Tooltip_Ability_bloodseeker_thirst_custom_hp_threshold_bonus_damage_pct"    "%УВЕЛИЧЕНИЕ УРОНА:"
         "DOTA_Tooltip_Ability_bloodseeker_thirst_custom_heal_per_kill_pct"    "%ЛЕЧЕНИЕ ЗА УБИЙСТВО:"
