@@ -227,11 +227,11 @@
         //-------------------------------------------------------------------------------------------------------------
         "AbilityValues"
         {
-            "percent_damage_per_burn"       "50"
-            "mana_per_hit"          "28 40 52 64"
+            "percent_damage_per_burn"       "50 55 60 65 70 75 80 85 90 95" // Wouldn't be that much because that still gets reduced by armor
+            "mana_per_hit"          "28 40 52 64 76 88 100 112 124 136" // This scaling was needed
             "mana_per_hit_pct"      
             {
-                "value"     "1 1.8 2.6 3.4 3.8 4.2 4.8 5.1 5.3 5.5"
+                "value"     "3.4 3.8 4.2 4.6 5.0 5.4 5.8 6.2 6.6 7" // Makes more sense now
                 "special_bonus_unique_antimage_7"   "+0.6"
             }
             "illusion_percentage"       "50"
@@ -276,7 +276,7 @@
         {
                 "AbilityCooldown"               
                 {
-                    "value"         "15 12 9 6 4 3 2 2 2 2"
+                    "value"         "11 10 9 8 7 6 5 4 3 2" //Useless anyway
                     "special_bonus_unique_antimage" "-1"
                 }
                 "AbilityCastRange"          
@@ -306,7 +306,7 @@
             "01"
             {
                 "var_type"                      "FIELD_INTEGER"
-                "spell_shield_resistance"       "20 30 40 50"
+                "spell_shield_resistance"       "20 30 40 50" // It doesn't work, please remove from abilites pool
             }
             "02"
             {
@@ -352,7 +352,7 @@
         {
             "magic_resistance"          
             {
-                "value"         "5 10 15 20 25 30 35 40 45 50"
+                "value"         "23 26 29 32 35 38 41 44 47 50" // More friendly scaling
                 "special_bonus_unique_antimage_4"   "+15"
             }
             "duration"                  "1.2"
@@ -428,8 +428,8 @@
             }
             "mana_void_damage_per_mana"     
             {
-                "value"             "0.8 0.95 1.1 1.2 1.3 1.4 1.6 1.8 1.9 2.0"
-                "special_bonus_unique_antimage_6"   "+0.1"
+                "value"             "0.8 0.95 1.1 1.25 1.4 1.55 1.7 1.85 2 2.15" // Smoother scaling
+                "special_bonus_unique_antimage_6"   "+0.2" // More useful now
             }           
             "mana_void_ministun"            
             {
@@ -14510,7 +14510,7 @@
                 "duration"                      "4"
                 "damage"                    
                 {
-                    "value"                 "6 12 18 24 30 36 42 48 54 60"
+                    "value"                 "12 18 24 30 36 42 48 54 60 66" //Better at level 1
                     "special_bonus_unique_viper_7"  "+25%"
                 }   
                 "movement_speed"            
@@ -14563,7 +14563,7 @@
 
         // Time     
         //-------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"               "14.0 13 12 11 10 9 8 7 6 5"
+        "AbilityCooldown"               "12" // There's a -11s cd talent
         
         // Cost
         //-------------------------------------------------------------------------------------------------------------
@@ -14583,7 +14583,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "max_damage"            "50 62 74 86 98 110 122 134 146 158"
+                "max_damage"            "50 75 100 125 150 175 200 225 250 275" //Scaling from Dota makes a lot more sense here
                 "LinkedSpecialBonus"    "special_bonus_unique_viper_3"
 
             }
@@ -14642,7 +14642,7 @@
             }
             "damage"
             {
-                "value"                 "8 24 40 56 72 88 104 120 136 152"
+                "value"                 "24 40 56 72 88 104 120 136 152 168" // More useful at lvl 1
                 "special_bonus_unique_viper_1"  "+13"
             }
             "max_range_tooltip"                 "1400"
@@ -14679,7 +14679,7 @@
         "AbilityUnitDamageType"         "DAMAGE_TYPE_MAGICAL"   
         "FightRecapLevel"               "2"
         "AbilitySound"                  "hero_viper.viperStrike"
-        "MaxLevel" "4"
+        "MaxLevel" "10"
         "HasScepterUpgrade"         "1"
 
         // Casting
@@ -14696,14 +14696,14 @@
 
             "damage"
             {
-                "value"             "80 240 400 560"
-                "special_bonus_unique_viper_2"  "+80"
+                "value"             "240 400 560 720 860 1020 1180 1340 1400 1560" // lvl 1 damage is too litle for an ultimate ability
+                "special_bonus_unique_viper_2"  "+160" // Talent buff
             }
             "bonus_movement_speed"  "-40 -60 -80 -100"
             "bonus_attack_speed"    "-40 -60 -80 -100"
             "AbilityCooldown"
             {
-                "value"             "50 40 30 20"
+                "value"             "30 25 20 15" // 50 sec cd is a joke
                 "special_bonus_unique_viper_8"      "-50%"
             }
             "AbilityManaCost"
@@ -34061,6 +34061,7 @@
         "FightRecapLevel"               "1"
         "AbilitySound"                  "Hero_SkywrathMage.ArcaneBolt.Cast"
         "HasScepterUpgrade"         "1"
+        "MaxLevel" "10"
         
         // Casting
         //-------------------------------------------------------------------------------------------------------------
@@ -34069,7 +34070,7 @@
         
         // Time     
         //-------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"               "5.0 4.0 3.0 2.0"
+        "AbilityCooldown"               "4.0 3.0 2.0 1.0" // Justice for the Skymage
 
         // Cost
         //-------------------------------------------------------------------------------------------------------------
@@ -34092,7 +34093,7 @@
             "03"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bolt_damage"           "75 95 115 135"
+                "bolt_damage"           "75 95 115 135 155 175 195 215 235 255"
             }
             "04"
             {
@@ -34130,6 +34131,7 @@
         "FightRecapLevel"               "1"
         "AbilitySound"                  "Hero_SkywrathMage.ConcussiveShot.Cast"
         "HasScepterUpgrade"         "1"
+        "MaxLevel" "10"
 
         // Casting
         //-------------------------------------------------------------------------------------------------------------
@@ -34138,7 +34140,7 @@
         
         // Time     
         //-------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"               "15 14 13 12"
+        "AbilityCooldown"               "7 6 5 4" // Justice for the Skymage
 
 
         // Cost
@@ -34168,7 +34170,7 @@
             "04"
             {
                 "var_type"          "FIELD_INTEGER"
-                "damage"            "120 180 240 300"
+                "damage"            "120 180 240 300 360 420 480 540 600 660"
             }
             "05"
             {
@@ -34199,7 +34201,7 @@
             "10"
             {
                 "var_type"              "FIELD_INTEGER"
-                "creep_damage_pct"      "75"
+                "creep_damage_pct"      "100" // Seems reasonable
             }
         }
         "AbilityCastAnimation"      "ACT_DOTA_CAST_ABILITY_2"
@@ -34274,6 +34276,7 @@
         "AbilityType"                   "DOTA_ABILITY_TYPE_ULTIMATE"
         "SpellImmunityType"             "SPELL_IMMUNITY_ENEMIES_NO"
         "FightRecapLevel"               "2"
+        "MaxLevel" "10"
 
         "HasScepterUpgrade"         "1"
         "HasShardUpgrade"           "1"
@@ -34286,7 +34289,7 @@
         
         // Time     
         //-------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"               "60.0 40.0 20.0"
+        "AbilityCooldown"               "20.0 15.0 10.0" // Justice for the Skymage
 
         // Cost
         //-------------------------------------------------------------------------------------------------------------
@@ -34304,12 +34307,12 @@
             "02"
             {
                 "var_type"              "FIELD_FLOAT"
-                "duration"              "2.2"
+                "duration"              "3.0" // Some justice
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "damage"                "800 1200 1600"
+                "damage"                "1200 1800 2400 3000 3600 4200 4800 5400 6000 6600" // Some justice
                 "LinkedSpecialBonus"    "special_bonus_unique_skywrath_5"
             }
             "04"

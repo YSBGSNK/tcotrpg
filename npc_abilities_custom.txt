@@ -237,10 +237,10 @@
         //-------------------------------------------------------------------------------------------------------------
         "AbilityValues"
         {
-            "damage" "6 20 34 48 62 76 90 104 118 132"
+            "damage" "20 34 48 62 76 90 104 118 132 146" // More useful at lvl 1
             "agi_to_damage"
             {
-                "value" "7 12 17 22 27 32 37 42 47 52"
+                "value" "50" // should make more sense
                 "CalculateSpellDamageTooltip"   "0"
             }
             "move_slow" "-3"
@@ -377,12 +377,12 @@
         "02"
         {
           "var_type"          "FIELD_INTEGER"
-          "damage"          "90 200 310 420 530 640 750 860 970 1080"
+          "damage"          "40 80 120 160 200 240 280 320 360 400" // This damage was huge (1200 per cast at lvl 2)
         }
         "03"
         {
           "var_type"          "FIELD_INTEGER"
-          "resistance"          "-3 -6 -9 -12 -15 -18 -21 -24 -27 -30"
+          "resistance"          "-12 -14 -16 -18 -20 -22 -24 -26 -28 -30" // Decreased level progression (3 - 30 -> 12 - 30)
           "CalculateSpellDamageTooltip"   "0"
         }
         "04"
@@ -514,7 +514,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "attack_to_magic"  "4 8 10 12 14 16 18 20 22 24"
+                "attack_to_magic"  "4 8 10 12 14 16 18 20 22 24" // I suggest adding "no spell amplification" flag to the damage table
             }
             "02"
             {
@@ -961,12 +961,12 @@
             "03"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_armor_pct"              "3 6 9 12 15 18 21 24 27 30"
+                "bonus_armor_pct"              "30" // Percentage-based armor is totally worthless at low levels so flat value is better than level-scaling
             }
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "crit_chance"              "25"
+                "crit_chance"              "21 22 23 24 25 26 27 28 29 30" //Better scaling for mid and late-game
             }
             "05"
             {
@@ -2758,7 +2758,7 @@
         //-------------------------------------------------------------------------------------------------------------
         "AbilityValues"
         {
-            "attack_to_mana_leech_pct" "1.0 1.75 2.5 3.25 4.0 4.75 5.5 6.25 7.0 7.75"
+            "attack_to_mana_leech_pct" "3.5 4.0 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0" // Making it useful at lower levels
         }
     }
 
@@ -2777,7 +2777,7 @@
         "AbilityValues"
         {
             "bonus_damage" "90 330 570 810 1050 1290 1530 1770 2010 2250"
-            "bonus_damage_agility" "4 10 16 22 28 34 40 46 52 58"
+            "bonus_damage_agility" "50" // Flat value seems more reasonable here
             "attack_speed_loss_pct" "-6 -8 -10 -12 -14 -16 -18 -20 -22 -24"
             "move_speed_loss_pct" "-4 -7 -10 -13 -16 -19 -22 -25 -28 -31"
         }
@@ -2850,7 +2850,7 @@
 
         // Time     
         //-------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"               "11 10 9 8 7 8 6 5 4 3"
+        "AbilityCooldown"               "7.5 7 6.5 6 5.5 5 4.5 4 3.5 3" // 11 sec is a huge cd for a skill like this
 
         // Special
         //-------------------------------------------------------------------------------------------------------------
@@ -2924,12 +2924,12 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "attack_factor"         "-45 -40 -35 -30 -25 -20 -15 -10 -5 -0"
+                "attack_factor"         "-45 -35 -25 -15 -5 5 15 25 35 45" // That's useless anyway
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "attack_factor_tooltip" "55 60 65 70 75 80 85 90 95 100"
+                "attack_factor_tooltip" "55 65 75 85 95 105 115 125 135 145"
             }
             "07"
             {
@@ -2958,7 +2958,7 @@
 
         // Time     
         //-------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"               "14 13 12 11 10 9 8 7 8 6"
+        "AbilityCooldown"               "14 13 12 11 10 9 8 7 6 5" // 8 7 8 was weird
 
         // Cost
         //-------------------------------------------------------------------------------------------------------------
@@ -3784,7 +3784,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "pass_damage"           "100 140 180 220"
+                "pass_damage"           "110 155 200 245" // That's Dota values (I think we shouldn't have lower than those)
             }
             "04"
             {
@@ -3915,7 +3915,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "pass_damage"           "100 140 180 220"
+                "pass_damage"           "110 155 200 245" // Same as the first one
             }
             "04"
             {
@@ -4023,7 +4023,7 @@
       "03"
       {
         "var_type"              "FIELD_INTEGER"
-        "stack_limit"           "4 8 12 16 20 24 28 32 36 40"
+        "stack_limit"           "12 14 16 18 20 22 24 26 28 30" // More useful at low levels, less stacks at the max level
       }
       "04"
       {
@@ -4039,7 +4039,7 @@
       "06"
       {
         "var_type"              "FIELD_FLOAT"
-        "base_armor_pct"          "0.25"
+        "base_armor_pct"          "0.3" // Due to stack count decrement
         "RequiresScepter" "1"
       }
     }
@@ -4344,7 +4344,7 @@
               "value" "56 72 88 104 120 136 152 168 184 200"
               "CalculateSpellDamageTooltip"                     "1"
             }
-            "duration"          "1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5"
+            "duration"          "2.8 3.1 3.4 3.7 4 4.3 4.6 4.9 5.2 5.5" //First three levels were useless
             "burn_interval"         "0.10"
             "linger_duration"           "0.2"
             "dragon_form_cast_range"    "1400"
@@ -4666,7 +4666,7 @@
 
         // Time     
         //-------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"               "28 26 24 22 20 18 16 14 12 10"
+        "AbilityCooldown"               "28 26 24 22 20 18 16 14 12 10" // I think 20+ is too much
 
         // Cost
         //-------------------------------------------------------------------------------------------------------------
